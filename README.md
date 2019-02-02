@@ -1,1 +1,1 @@
-# Explore-Weather-Trends(Using python for creating functions to sepearate data into different fields)
+# Explore-Weather-Trends(Using excel to find relations between elements to create graphs depictiong weather trends)
